@@ -1,0 +1,2 @@
+A = "dingussugus"
+print(A)
